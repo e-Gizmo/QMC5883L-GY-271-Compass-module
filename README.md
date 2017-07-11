@@ -1,0 +1,1 @@
+# QMC5883L-GY-271-Compass-module
