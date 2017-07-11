@@ -1,6 +1,7 @@
 # QMC5883L-GY-271-Compass-module
 ## Supporting Documents
 http://www.e-gizmo.com/oc/index.php?route=product/product&product_id=534&search=hmc
+![Imgur](http://i.imgur.com/C0moFOT.jpg)
 
 3-Axis Magnetic Sensor QMC5883L is a multi-chip 3-axis magnetic sensor. Targeted for high precision applications such as compassing, navigation and gaming in drone, robot, mobile and personal hand=held devices. Compatible in all gizduino boards.
 
